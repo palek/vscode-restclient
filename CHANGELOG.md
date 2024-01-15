@@ -1,3 +1,15 @@
+## 0.26.0 (2024/01/15)
+* __Feature__: merge forked repo from [tm1-oss](https://github.com/tm1-oss/vscode-restclient)
+
+## 1.0.2 (2023/05/12)đ
+* __Feature__: [Support a custom function called filterObject in tests] ([@herrberk](https://github.com/herrberk))
+
+## 1.0.1 (2022/08/18)
+* __Bug Fix__: [Revert "Fixed multipart/form-data request was not ending with \r\n. (999)"] ([@herrberk](https://github.com/herrberk))
+
+## 1.0.0 (2022/08/18)
+* __Feature__: [Support for chai based test execution] ([@herrberk](https://github.com/herrberk))
+
 ## 0.25.1 (2022/07/06)
 * __Bug Fix__: [Fix request parse error for curl request without body](https://github.com/Huachao/vscode-restclient/issues/1026)
 
